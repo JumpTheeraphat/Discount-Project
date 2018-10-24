@@ -1,0 +1,7 @@
+com\cpe\wongnai_server\entity\Coupon.class
+com\cpe\wongnai_server\WongnaiServerApplication.class
+com\cpe\wongnai_server\entity\Period.class
+com\cpe\wongnai_server\Repository\RestaurantRepository.class
+com\cpe\wongnai_server\entity\Category.class
+com\cpe\wongnai_server\entity\Discount.class
+com\cpe\wongnai_server\entity\Restaurant.class
